@@ -1,0 +1,5 @@
+CIC-IDS-2017/
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
